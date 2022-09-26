@@ -1,10 +1,10 @@
-package com.kazale.estudo;
+package com.kazale.ponto;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class EstudoApplicationTests {
+class PontoInteligenteApplicationTests {
 
 	@Test
 	void contextLoads() {
