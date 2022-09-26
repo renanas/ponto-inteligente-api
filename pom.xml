@@ -33,7 +33,13 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+		<!-- JPA, MySQL e H2 -->
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-started-data-jpa</artifactId>
+		</dependency>
 	</dependencies>
+	
 
 	<build>
 		<plugins>
@@ -43,5 +49,9 @@
 			</plugin>
 		</plugins>
 	</build>
+
+	
+		
+
 
 </project>
